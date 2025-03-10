@@ -3,6 +3,14 @@
 ## Overview
 This project analyzes recruitment data to evaluate candidate selection trends and hiring decisions. It involves data cleaning, statistical analysis, and visualization to gain insights into factors influencing hiring outcomes.
 
+## Main Goal
+The primary goal of this project is to analyze recruitment data and identify key factors that influence hiring decisions. By leveraging statistical techniques and data visualization, this project aims to:
+- **Identify Hiring Patterns** – Understand how variables such as age, experience, education level, and interview scores impact the likelihood of being hired.
+- **Optimize Recruitment Strategies** – Provide data-driven insights to improve candidate selection criteria and enhance hiring efficiency.
+- **Detect Biases & Trends** – Analyze gender distribution, education levels, and recruitment strategies to ensure fair and inclusive hiring practices.
+- **Enhance Data-Driven Decision-Making** – Use statistical measures (mean, variance, standard deviation) to support HR teams in making informed recruitment choices.
+- **Provide Actionable Recommendations** – Suggest improvements to hiring strategies based on observed trends and analysis.
+
 ## Features
 - **Data Exploration**: Loads and summarizes recruitment data.
 - **Data Cleaning & Preprocessing**:
@@ -53,6 +61,5 @@ This project analyzes recruitment data to evaluate candidate selection trends an
 - **Regularly Update Hiring Models**: Continuously refine statistical models to adapt to changing recruitment trends and company needs.
 
 ## Author
-
 This project was developed by Marzooq Habib Mohamadu as part of a personal study on Recruitment Data Analysis
 
